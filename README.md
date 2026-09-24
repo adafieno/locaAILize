@@ -5,6 +5,8 @@ Localization intelligence for Visual Studio Code.
 locAIlize helps developers understand localization coverage, inspect source references, review translations, and test internationalized interfaces without leaving VS Code.
 
 > This repository is the public support and feedback hub for the locAIlize VS Code extension. The extension source code is not hosted here.
+>
+> **Proprietary software:** All rights reserved. This repository provides documentation, release information, and issue tracking only.
 
 ## Features
 
@@ -166,4 +168,6 @@ This repository contains public documentation, release information, and issue tr
 
 ## License
 
-License and redistribution terms will be published here when finalized.
+locAIlize is proprietary software. All rights are reserved by the copyright holder.
+
+The extension is distributed through the Visual Studio Code Marketplace under its Marketplace terms. This repository contains public documentation and support materials only; no source-code license is granted.
